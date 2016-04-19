@@ -7,3 +7,5 @@
 6. cd test-git2svn/
 7. svn mkdir --parents file:///home/hmelendez/workspace/reposvn-test-git2svn/trunk -m 'importing git repo'
 8. git svn init file:///home/hmelendez/workspace/reposvn-test-git2svn/ -s
+9. git svn fetch
+10. git rebase origin/trunk
