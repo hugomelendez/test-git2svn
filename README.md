@@ -9,3 +9,10 @@
 8. git svn init file:///home/hmelendez/workspace/reposvn-test-git2svn/ -s
 9. git svn fetch
 10. git rebase origin/trunk
+
+
+## 2do intento
+https://git-scm.com/book/en/v1/Git-and-Other-Systems-Git-and-Subversion
+- cd ~/workspace
+- svnadmin create reposvn-test-git2svn
+- 
