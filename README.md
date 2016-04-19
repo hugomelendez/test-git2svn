@@ -1,7 +1,4 @@
 # test-git2svn
-<<<<<<< HEAD
-1. empezamos
-=======
 1. empezamos leyendo http://stackoverflow.com/questions/661018/pushing-an-existing-git-repository-to-svn
 3. cd ~/workspace
 4. git clone https://github.com/hugomelendez/test-git2svn.git
@@ -10,5 +7,3 @@
 7. cd test-git2svn/
 8. svn mkdir --parents file:///home/hmelendez/workspace/reposvn-test-git2svn/trunk -m 'importing git repo'
 9. git svn init file:///home/hmelendez/workspace/reposvn-test-git2svn/ -s
-
->>>>>>> cfc53d6fd0f62c4962f04f312fa7538bd7855932
